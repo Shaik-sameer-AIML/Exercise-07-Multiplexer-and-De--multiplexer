@@ -44,7 +44,7 @@ If the data bit D is low, the output Y1 is low. IF data bit D is high, the outpu
 
 If the control input changes to AB = 10, then all the gates are restricted except the third AND gate from the top. Then, data bit D is transmitted only to the output Y2; and, Y2 = Data. . The best example of 1X4 demultiplexer is IC 74155.
 
- 
+ ```
  
 ### Procedure
 
@@ -54,7 +54,7 @@ If the control input changes to AB = 10, then all the gates are restricted excep
 4.Use and,or and not gates to get the desired output.
 5.End the module.
 6.Generate RTL realization and timing diagrams.
-
+```
 
 
 ### PROGRAM 
